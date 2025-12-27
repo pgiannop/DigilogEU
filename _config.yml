@@ -4,6 +4,7 @@ author: Panagiotis Giannopoulos                    # Used for copyright statemen
 baseurl: "/pgiannop"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.com/petridish/markdown/#links
+remote_theme: peterdesmet/petridish@3.1                                        
 
 # SOCIAL PROFILES
 social:
