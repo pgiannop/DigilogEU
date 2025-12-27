@@ -5,6 +5,7 @@ author: Panagiotis Giannopoulos
 url: "https://pgiannop.github.io"
 baseurl: "/DigilogEU"
 
+
 remote_theme: peterdesmet/petridish@3.1                                      
 
 # SOCIAL PROFILES
